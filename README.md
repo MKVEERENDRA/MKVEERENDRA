@@ -60,4 +60,3 @@ I'm always exploring new possibilities in the decentralized space and excited ab
 
 ---
 
-<img src="https://raw.githubusercontent.com/mkveerendra/mkveerendra/output/snake.svg" alt="Snake animation" />
