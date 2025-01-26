@@ -59,4 +59,5 @@ I specialize in designing and auditing smart contracts to ensure they are effici
 I'm always exploring new possibilities in the decentralized space and excited about projects that push the boundaries of what's possible with blockchain technology. If you're looking for collaboration opportunities or need expert advice on smart contract development and auditing, don't hesitate to reach out!
 
 ---
-
+<img src="https://raw.githubusercontent.com/MKVEERENDRA/MKVEERENDRA/output/snake.svg" alt="Snake animation" />
+----
