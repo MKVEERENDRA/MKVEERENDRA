@@ -5,7 +5,7 @@
   I'm a passionate <strong>Blockchain Developer</strong>, <strong>DApp Creator</strong>, and <strong>Smart Contract Auditor</strong> with hands-on experience in building decentralized applications that make an impact. I'm dedicated to shaping the future of finance, security, and decentralized technologies through innovative projects.
 </p>
 
-### 🚀 What I Do
+###  What I Do
 
 I specialize in designing and auditing smart contracts to ensure they are efficient, secure, and free from vulnerabilities. My expertise spans multiple blockchain ecosystems, including **Ethereum**, **Binance Smart Chain**, and **Polygon**, and I use tools like **Solidity**, **Hardhat**, and **Truffle** to create robust solutions.
 
@@ -17,7 +17,7 @@ I specialize in designing and auditing smart contracts to ensure they are effici
 
 
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MKVEERENDRA&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&locale=en" height="160" alt="GitHub Stats" />
@@ -26,7 +26,7 @@ I specialize in designing and auditing smart contracts to ensure they are effici
 
 ---
 
-### 🎯 Skills & Technologies
+###  Skills & Technologies
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="30" alt="JavaScript" />
@@ -39,11 +39,7 @@ I specialize in designing and auditing smart contracts to ensure they are effici
 
 ---
 
-### 🎥 Fun Fact
 
-I'm always exploring new possibilities in the decentralized space and excited about projects that push the boundaries of what's possible with blockchain technology. If you're looking for collaboration opportunities or need expert advice on smart contract development and auditing, don't hesitate to reach out!
-
----
 <img src="https://raw.githubusercontent.com/MKVEERENDRA/MKVEERENDRA/output/snake.svg" alt="Snake animation" />
 
 ----
